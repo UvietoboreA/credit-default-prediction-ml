@@ -150,7 +150,7 @@ Execute the script from top to bottom.
 
 ```text
 .
-├── Joshua_Coursework_2.R
+├── credit-default-prediction-ml.R
 ├── creditdefault_train.csv
 ├── creditdefault_test.csv
 ├── README.md
